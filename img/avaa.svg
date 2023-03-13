@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="147"
+   height="24"
+   viewBox="0 0 38.893751 6.3500001"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="asdf.svg"
+   inkscape:export-xdpi="9.2138128"
+   inkscape:export-ydpi="9.2138128"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="avaa"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.4329258"
+     inkscape:cx="156.19054"
+     inkscape:cy="36.375956"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.470543,2.1805607)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#280b0b;stroke-width:0.264583"
+       x="91.373787"
+       y="65.708511"
+       id="text292"><tspan
+         sodipodi:role="line"
+         id="tspan290"
+         style="stroke-width:0.264583"
+         x="91.373787"
+         y="65.708511"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.23473px;fill:#00112b;stroke-width:0.0817927"
+       x="16.878101"
+       y="2.9331264"
+       id="text667"
+       transform="scale(1.055632,0.9472998)"><tspan
+         sodipodi:role="line"
+         id="tspan665"
+         style="fill:#00112b;stroke-width:0.0817927"
+         x="16.878101"
+         y="2.9331264">for</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;white-space:pre;inline-size:43.0618;display:inline;fill:#0066ff;stroke-width:0.264583"
+       x="82.487617"
+       y="50.537407"
+       id="text972"
+       transform="matrix(0.32633632,0,0,0.29284668,-0.87600404,-11.705938)"><tspan
+         x="82.487617"
+         y="50.537407"
+         id="tspan2103">Rent</tspan></text>
+    <rect
+       style="fill:#0066ff;stroke-width:0.0817927"
+       id="rect1026"
+       width="3.861264"
+       height="7.0443892"
+       x="13.744559"
+       y="-2.9904661"
+       ry="0.084074676" />
+    <rect
+       style="fill:#aaccff;stroke-width:0.0817927"
+       id="rect1080"
+       width="1.8177364"
+       height="4.8286328"
+       x="15.414391"
+       y="-1.0602837"
+       ry="0.084074676" />
+    <rect
+       style="fill:#d5e5ff;stroke-width:0.0817927"
+       id="rect1134"
+       width="0.88703644"
+       height="3.7530539"
+       x="16.424553"
+       y="-0.25580528"
+       ry="0.084074676" />
+  </g>
+</svg>
